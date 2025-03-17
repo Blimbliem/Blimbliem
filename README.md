@@ -1,7 +1,7 @@
 <center><h2> Seja bem-vindo!</h2> </center> <br>
 
 
-![codando](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![codando](https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 -----
 
 
@@ -11,9 +11,8 @@
 
 💭 Apesar de estudar uma matéria considerada de exatas, sou um grande adimirador da filosofia, teologia, história, etc.
 
-|📭 studyblimblim@gmail.com| 📷 gabrielblimblim| 
-
-![instagram](https://png.pngtree.com/element_our/png/20181011/instagram-social-media-icon-design-template-vector-png_126996.png) 
+|📭 studyblimblim@gmail.com| 📷 gabrielblimblim|[] 
+--------
 
 <br>
 

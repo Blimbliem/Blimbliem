@@ -14,7 +14,7 @@
 💭 Apesar de estudar uma matéria considerada de exatas, sou um grande adimirador da filosofia, teologia, história, etc.
 
 📭 studyblimblim@gmail.com 
-💼![Meu linkedin!](https://www.linkedin.com/in/gabriel-blimbliem/) 
+💼[Meu linkedin!](https://www.linkedin.com/in/gabriel-blimbliem/) 
 
 
 --------

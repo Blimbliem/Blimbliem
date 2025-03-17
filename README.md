@@ -15,8 +15,6 @@
 
 📭 studyblimblim@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / width="30px"> gabrielblimblim
-
 --------
 
 <br>
@@ -34,6 +32,7 @@
 </p>
 
 
+![Gabriel Blimblim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blimbliem_icons=true&theme=radical)
 
 
 

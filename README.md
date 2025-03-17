@@ -1,8 +1,7 @@
 <center><h2> Seja bem-vindo!</h2> </center> <br>
 
 
-![code time](https://preview.redd.it/1d11s820dgm91.gif?width=675&format=mp4&s=08fd1dffb13ac194498fea85448d4604ec953ab4t)
+![codando](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
 
- <br>
 

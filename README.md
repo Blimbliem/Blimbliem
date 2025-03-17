@@ -13,15 +13,24 @@
 
 💭 Apesar de estudar uma matéria considerada de exatas, sou um grande adimirador da filosofia, teologia, história, etc.
 
-|📭 studyblimblim@gmail.com| 📷 gabrielblimblim|[] 
+📭 studyblimblim@gmail.com
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /width="30px"> gabrielblimblim
+
 --------
 
 <br>
 
 ## Minhas tecnologias
+
 <p align="center">
-    <img src="https://via.placeholder.com/150" alt="Imagem 1" width="200" style="display: inline-block; margin-right: 10px;">
-    <img src="https://via.placeholder.com/150" alt="Imagem 2" width="200" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" / width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" / width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /width="50px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /width="50px">
+
+    
 </p>
 
 

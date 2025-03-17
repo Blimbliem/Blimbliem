@@ -32,7 +32,7 @@
 </p>
 
 
-![Gabriel Blimblim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blimbliem_icons=true&theme=radical)
+![Gabriel Blimblim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blimbliem&show_icons=true&theme=radical)
 
 
 

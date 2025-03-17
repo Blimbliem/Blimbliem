@@ -13,7 +13,9 @@
 
 💭 Apesar de estudar uma matéria considerada de exatas, sou um grande adimirador da filosofia, teologia, história, etc.
 
-📭 studyblimblim@gmail.com
+📭 studyblimblim@gmail.com 
+💼![Meu linkedin!](https://www.linkedin.com/in/gabriel-blimbliem/) 
+
 
 --------
 
@@ -34,5 +36,5 @@
 
 ![Gabriel Blimblim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blimbliem&show_icons=true&theme=dark)
 
-
+<img loading="lazy" height=""180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blimbliem&layout=compact&langs_count=7&theme=dark">
 

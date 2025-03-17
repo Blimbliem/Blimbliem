@@ -15,7 +15,7 @@
 
 📭 studyblimblim@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /width="30px"> gabrielblimblim
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / width="30px"> gabrielblimblim
 
 --------
 

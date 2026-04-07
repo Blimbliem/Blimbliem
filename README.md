@@ -1,40 +1,67 @@
+# 🚀 Olá, eu sou o Gabriel Blimbliem (Blimblim)
 
-<h2 align= "center"> Seja bem-vindo!</h2>
+**Software Analyst & Developer | Computer Science Student | Data & Architecture Enthusiast**
 
-<br>
+Localizado em **Santo André, SP**, sou um desenvolvedor focado em construir sistemas robustos, escaláveis e bem estruturados. Atualmente, atuo como **Analista de Software**, aplicando padrões de excelência em projetos Full Stack.
 
-<h3 align= "center"> <img src = "https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="650"></h3>
+---
 
+## 🛠️ O que eu faço
 
+* **Backend & Arquitetura**: Especialista em **Java** com foco em **Clean Architecture**. Desenvolvo APIs sólidas utilizando Spring Boot e containerização com Docker.
+* **Ciência de Dados & Python**: Utilizo **Python** e **FastAPI** para automação de processos e análise de dados, unindo a base acadêmica com necessidades práticas de mercado.
+* **Infraestrutura Moderna**: Experiência com **Docker** e estudos avançados em **Kubernetes** para orquestração de microsserviços.
+* **Investimentos**: Desenvolvo ferramentas pessoais para análise de ativos na B3, com foco em dividendos e Fundos Imobiliários (FIIs).
 
-✋ Olá, eu sou o Gabriel, e muitas pessoas me chamam de **blimblim**, por causa do meu sobrenome, fique a vontade!
+---
 
-🎓 Estudo Ciência da Computação na Fundação de Santo André e em outras plataformas de ensino.
+## 💻 Tech Stack
 
-💭 Apesar de estudar uma matéria considerada de exatas, sou um grande admirador da filosofia, teologia, história, etc.
-
-📭 studyblimblim@gmail.com 
-💼[Meu linkedin!](https://www.linkedin.com/in/gabriel-blimbliem/) 
-
-
---------
-
-<br>
-
-<h2 align="center"> Minhas tecnologias </h2>
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" / width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" / width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /width="50px">
- 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
 </p>
 
---------------------
+---
 
+## 📌 Projetos em Destaque
 
-![Gabriel Blimblim GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blimbliem&show_icons=true&theme=dark)
+* **[BlimList](https://github.com/Blimbliem/blimlist)**: To-Do List Full Stack aplicando **Clean Architecture**, Java 21 e Docker.
+* **WhatsApp Automation Bot**: Automação inteligente desenvolvida com Python e FastAPI.
+* **Projeto JEDA**: Desenvolvimento web voluntário para a ONG JEDA durante a graduação.
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blimbliem&layout=compact&langs_count=7&theme=dark">
+---
 
+## 💭 Além do Código
+
+Sou um grande entusiasta da **Filosofia, Teologia e História**. Acredito que a tecnologia deve ser construída com uma base humanista sólida. Além disso, pratico **Inglês** diariamente para expansão de conhecimentos e colaboração em projetos globais.
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blimbliem&show_icons=true&theme=dark" alt="Gabriel Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blimbliem&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-blimbliem/)
+* 📧 [Email](mailto:studyblimblim@gmail.com)
+
+---
+<p align="center">
+  <i>" Il n’y a qu’une tristesse, c’est de n’être pas des saints. — Léon Bloy."</i>
+</p>

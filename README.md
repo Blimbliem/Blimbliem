@@ -46,13 +46,19 @@ Sou um grande entusiasta da **Filosofia, Teologia e História**. Acredito que a 
 
 ## 📊 Estatísticas
 
+---
+
+## 📊 Estatísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blimbliem&show_icons=true&theme=dark" alt="Gabriel Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blimbliem&theme=dark" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blimbliem&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blimbliem&theme=dark" alt="Top Langs" />
 </p>
+
+---
 
 ---
 
